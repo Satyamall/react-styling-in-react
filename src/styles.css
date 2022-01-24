@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+button {
+  width: 100px;
+  height: 50px;
+  margin: 10px;
+}
+
+.class1 {
+  font-size: 20px;
+  background: red;
+}
+
+.class2 {
+  background: yellow;
+  font-weight: bold;
+}
+
+.class3 {
+  background: gray;
+  font-size: 30px;
+}
+
+.class4 {
+  background: aqua;
+}
+
+.class5{
+background:red
+}

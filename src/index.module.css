@@ -1,0 +1,9 @@
+.classExample {
+  background: red;
+}
+
+@media screen and (max-width: 400px) {
+  .classExample {
+    background: red;
+  }
+}
